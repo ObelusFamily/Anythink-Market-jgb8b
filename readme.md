@@ -1,4 +1,4 @@
-# Welcome to the Anythink Market repo
+s# Welcome to the Anythink Market repo
 s
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
